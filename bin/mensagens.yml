@@ -1,0 +1,29 @@
+Mensagens:
+  SemPermissao: "&cVocê não possui permissão para isso!"
+  ValorAdicionado: "&eFoi adicionado ${valor} para {player}."
+  AddArgumento: "&cUse '/money add <jogador> <quantia>'"
+  RemoveArgumento: "&cUse '/money remove <jogador> <quantia>'"
+  SetArgumento: "&cUse '/money set <jogador> <quantia>'"
+  PayArgumento: "&cUse '/money pay <jogador> <quantia>'"
+  ToggleArgumento: "&cUse '/money toggle'"
+  MoneyDoJogador: "&eVocê possui ${valor} coins"
+  MoneyDeOutroJogador: "&e{player} possui ${valor} coins"
+  JogadorNaoEncontrado: "&cJogador não encontrado ou não existe."
+  JogadorMoneySuficiente: "&cVocê não tem money suficiente!"
+  JogadorEnviouMoney: "&eVocê enviou ${valor} para {player}"
+  JogadorRecebeuMoney: "&eVocê recebeu ${valor} de {player}"
+  ValorSetado: "&eNovo salvo de {player} é ${valor}"
+  ValorRemovido: "&eFoi removido ${valor} de {player}."
+  ValorRemovidoMaisDoQueTinha: "&cVocê removeu todo o dinheiro de {player}"
+  ValorPrecisaSerNumero: "&cA quantia precisa ser um número válido."
+  ValorPrecisaSerMaiorQueZero: "&cA quantia precisa ser maior que zero."
+  ValorPrecisaSerMaiorOuIgualAZero: "&cA quantia precisa ser maior ou igual a zero."
+  JogadorAtivouToggle: "&eVocê ATIVOU o recebimento de coins!"
+  JogadorDesativouToggle: "&eVocê DESATIVOU o recebimento de coins!"
+  JogadorNaoEstaRecebendoMoney: "&cEste jogador desativou o recebimento de coins!"
+  TopFormato: " &2{p}° &f{player} &7» ({valor} coins)"
+  TopPrefixo:
+  - ''
+  - '&dTop'
+  - '&C10 gays'
+  - ''

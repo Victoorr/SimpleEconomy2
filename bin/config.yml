@@ -1,0 +1,13 @@
+Geral:
+  # Tamanho da lista do /money top
+  TopTamanho: 3
+  # Tempo para atualizar o top money em segundos
+  AtualizarTop: 300
+
+SQL:
+  Use: false
+  Host: 192.0.0.1
+  User: "v_kills"
+  DB: "v_kills"
+  Password: '28n2waw923m'
+  Port: 3306

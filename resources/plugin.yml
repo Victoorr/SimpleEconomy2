@@ -1,0 +1,9 @@
+name: SimpleEconomy
+version: 2.0
+author: Victor696
+main: br.dev.victor696.simpleeconomy.SimpleEconomy
+depend: [Vault]
+load-before: [LegendChat, PermissionsEx]
+load: STARTUP
+commands:
+    money:
